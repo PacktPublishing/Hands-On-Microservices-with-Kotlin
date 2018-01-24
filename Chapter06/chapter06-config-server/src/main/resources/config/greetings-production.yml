@@ -1,0 +1,3 @@
+microservice:
+  example:
+    greetings: "hello from another profile"

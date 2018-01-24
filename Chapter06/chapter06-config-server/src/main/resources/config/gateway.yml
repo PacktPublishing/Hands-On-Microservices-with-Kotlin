@@ -1,0 +1,6 @@
+zuul:
+  ignoredServices: '*'
+  routes:
+    greetings:
+      path: /message/**
+      serviceId: greetings
