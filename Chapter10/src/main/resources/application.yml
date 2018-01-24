@@ -1,0 +1,7 @@
+management:
+  endpoints:
+    web:
+      base-path: "/management"
+      expose: ["health", "metrics", "trace"]
+  server:
+    port: 8089
