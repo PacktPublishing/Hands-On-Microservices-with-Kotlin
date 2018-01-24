@@ -1,5 +1,5 @@
-# Microservices with Kotlin
-This is the code repository for [Microservices with Kotlin](https://www.packtpub.com/web-development/microservices-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788471459), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Hands-On Microservices with Kotlin
+This is the code repository for [Hands-On Microservices with Kotlin](https://www.packtpub.com/web-development/microservices-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788471459), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 With Google's inclusion of first-class support for Kotlin in their Android ecosystem, Kotlin's future as a mainstream language is assured.
 
