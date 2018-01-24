@@ -1,2 +1,2 @@
-# Hands-on-Microservices-with-Kotlin
-Hands-on Microservices with Kotlin, published by Packt
+# Hands-On-Microservices-with-Kotlin
+Hands-On Microservices with Kotlin, published by Packt
