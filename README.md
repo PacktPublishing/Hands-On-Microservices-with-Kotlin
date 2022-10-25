@@ -47,3 +47,7 @@ Any Zip Extractor
 * [Spring 5.0 Microservices - Second Edition](https://www.packtpub.com/application-development/spring-50-microservices-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787127685)
 
 * [Microservices and Cloud-Native Applications with Spring 5.0 [Video]](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video?utm_source=github&utm_medium=repository&utm_campaign=9781788831727)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788471459">https://packt.link/free-ebook/9781788471459 </a> </p>
